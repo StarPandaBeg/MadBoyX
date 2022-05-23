@@ -1,0 +1,3 @@
+
+class ISingleThread:
+    pass

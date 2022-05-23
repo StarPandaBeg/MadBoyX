@@ -1,0 +1,1 @@
+<a href="{href}" class="filecard {type}[hidden] hidden[/hidden]" title="{name}" data-path="{href}" data-name="{name}"><object data="{filepath}/assets/icons/{img}.png" type="image/png"><img src="{filepath}/assets/icons/unknown.png" draggable="false"></object><p>{name}</p></a>
