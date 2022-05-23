@@ -1,0 +1,1 @@
+VERSION_URL = "https://raw.githubusercontent.com/StarPandaBeg/MadBoy/master/VERSION"
